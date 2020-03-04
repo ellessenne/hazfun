@@ -4,7 +4,7 @@ HazFun is an interactive shiny app designed to play around with hazard functions
 
 # How to use
 
-You can access the web app `HazFun` [here](https://ag475.shinyapps.io/hazfun/).
+You can access the web app `HazFun` [here](https://ellessenne.shinyapps.io/hazfun/).
 
 Alternatively, you can downloading for local use if you don't have access to the Internet:
 
@@ -18,4 +18,4 @@ Alternatively, you can downloading for local use if you don't have access to the
 
 # Feedback
 
-If you have any feedback, please [open an Issue on GitHub](https://github.com/ellessenne/hazfun/issues) or [email me](mailto:ag475@leicester.ac.uk).
+If you have any feedback, please [open an Issue on GitHub](https://github.com/ellessenne/hazfun/issues) or [email me](mailto:alessandro.gasparini@ki.se).
